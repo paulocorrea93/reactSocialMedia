@@ -18,7 +18,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -26,7 +26,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -34,7 +34,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -42,7 +42,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -50,7 +50,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -58,7 +58,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -66,7 +66,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -74,7 +74,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -82,7 +82,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -90,7 +90,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -98,7 +98,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -106,7 +106,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -114,7 +114,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -122,7 +122,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -130,7 +130,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -138,7 +138,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -146,7 +146,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -154,7 +154,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -162,7 +162,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -170,7 +170,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
@@ -178,7 +178,7 @@ export default function Rightbar() {
 
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img src="./assets/profile-pics/3.jpeg" alt="" className="rightbarProfileImg" />
+              <img src="./assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
               <span className="rightbarOnline"></span>
             </div>
             <span className="rightbarUserName">Pedro</span>
