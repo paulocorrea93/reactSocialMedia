@@ -46,43 +46,43 @@ export default function Leftbar() {
       <ul className="sidebarFriendList">
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
         <li className="sidebarFriendListItem">
           <img src="./assets/profile-pics/2.jpeg" alt="" className="sidebarFriendImg" />
-          <span className="sidebarFriendName">José Francisco</span>
+          <span className="sidebarFriendName">João</span>
         </li>
       </ul>
 
