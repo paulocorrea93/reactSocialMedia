@@ -4,7 +4,7 @@ import { Users } from '../../dummyData';
 import Online from '../online/Online';
 
 
-export default function Rightbar(profile) {
+export default function Rightbar({profile}) {
   const HomeRightbar = () => {
     return (
       <div>
@@ -15,7 +15,7 @@ export default function Rightbar(profile) {
 
         <img src="./assets/ad.png" alt="" className="rightbarAd" />
 
-        <h4 className="righbarTitle">Online Friends</h4>
+        <h4 className="rightbarTitle">Online Friends</h4>
 
         <ul className="rightbarFriendList">
           {Users.map(u => (
@@ -78,7 +78,8 @@ export default function Rightbar(profile) {
   return (
     <div className='rightbarContainer'>
       <div className="rightbarWrapper">
-        <ProfileRightBar />
+        {profile ? < ProfileRightBar /> : < HomeRightbar />}
+
       </div>
     </div>
   )
